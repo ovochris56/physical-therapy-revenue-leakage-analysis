@@ -59,6 +59,6 @@ This project uses a simulated outpatient physical therapy dataset designed to mo
 # 🚀 Business Impact
 
 This project demonstrates how data can be used to:
-- identify revenue leakage
+- quantify and reduce revenue leakage
 - improve patient outcomes
 - optimize clinic operations
