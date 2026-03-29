@@ -1,6 +1,6 @@
 # Physical Therapy Revenue Leakage & Patient Adherence Analysis
 
-This project reflects a real-world healthcare analytics use case focused on improving outpatient rehabilitation outcomes and operational efficiency.
+36% of patients fail to complete care, driving ~$78K in lost revenue. This project reflects a real-world healthcare analytics use case focused on improving outpatient rehabilitation outcomes and operational efficiency.
 
 # 🔍 Problem
 
