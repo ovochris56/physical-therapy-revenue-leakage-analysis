@@ -1,5 +1,6 @@
 # Physical Therapy Revenue Leakage & Patient Adherence Analysis
 
+This project reflects a real-world healthcare analytics use case focused on improving outpatient rehabilitation outcomes and operational efficiency.
 
 # 🔍 Problem
 
